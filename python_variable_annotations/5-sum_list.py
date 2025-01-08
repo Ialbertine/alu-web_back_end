@@ -8,3 +8,5 @@ def sum_list(input_list: list[float]) -> float:
     if type(i) == float:
       sum += i
   return sum
+
+
